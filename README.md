@@ -35,12 +35,10 @@ Full of energy, represented by the diversity of ideas and continuous innovation,
 
 <h3>📊 Analysis</h3>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacquelineellen&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jacquelineellen&repo=convoychat" />
-</a>
+
+[![Stats Jacqueline](https://github-readme-stats.vercel.app/api?username=jacquelineellencsm)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Languages Jacqueline](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineellencsm)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=jacquelineellencsm)
