@@ -34,10 +34,7 @@ Full of energy, represented by the diversity of ideas and continuous innovation,
 </a>
 
 <h3>📊 Analysis</h3>
-<br/>
- 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<br/> 
 
 ![](https://komarev.com/ghpvc/?username=jacquelineellencsm)
 
