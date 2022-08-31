@@ -35,19 +35,16 @@ Full of energy, represented by the diversity of ideas and continuous innovation,
 
 <h3>📊 Analysis</h3>
 <br/>
-
-[![Stats Jacqueline](https://github-readme-stats.vercel.app/api?username=jacquelineellencsm)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Languages Jacqueline](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineellencsm)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-
-![](https://komarev.com/ghpvc/?username=jacquelineellencsm)
+ 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-🌱 
+![](https://komarev.com/ghpvc/?username=jacquelineellencsm)
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img aling = "center" height="300em" height="300em" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+
+🌱 
 
 
 
